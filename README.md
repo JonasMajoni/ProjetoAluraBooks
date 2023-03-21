@@ -16,6 +16,6 @@
 
 
 
-<p>Celular</p>
+<p>Mobile</p>
 
 ![image](https://user-images.githubusercontent.com/92121018/226713986-b2e917d7-1a72-4310-91ca-a69182d96431.png)
